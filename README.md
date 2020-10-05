@@ -17,6 +17,8 @@ Performing analysis on Kickstarter data to uncover trends
 ### Analysis of Outcomes Based on Launch Date
 
  	Looking at Outcomes Based on Launch Date the most obvious conclusion is that May is definitely the best month to start.  However, an early summer producition (June - July) could have much success.  Late Fall and December should not be considerd due to the chance of failure.
+	
+	![Outcomes Based on Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
